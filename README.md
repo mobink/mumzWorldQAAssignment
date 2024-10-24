@@ -1,4 +1,4 @@
-# Mumzworld Scraper  
+# Mumzworld QA Assignment  
   
 This Python script uses Selenium to scrape product information from Mumzworld.  
   
