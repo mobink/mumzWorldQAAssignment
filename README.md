@@ -9,7 +9,7 @@ This Python script uses Selenium to scrape product information from Mumzworld.
   
 ## Installation  
   
-1. Clone the repository: `git clone https://github.com/your-username/mumzworld-scraper.git`  
+1. Clone the repository: `git clone https://github.com/mobink/mumzWorldQAAssignment.git`  
 2. Install dependencies: `pip install selenium`  
 3. Download GeckoDriver from [here](https://github.com/mozilla/geckodriver/releases) and add it to your system's PATH.  
   
